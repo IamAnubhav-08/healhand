@@ -1,0 +1,57 @@
+
+.navbar.navbar-inverse {
+  border: none;
+}
+
+.navbar .navbar-brand {
+  padding-top: 0px;
+}
+
+.navbar .navbar-brand img {
+  height: 50px;
+}
+
+.background{
+  background-image: url("../images/image-1.jpg");
+  height: 88vh;
+}
+
+.mask p{
+  font-size: 40px;
+}
+
+.body-content a:hover{
+  background-color: #212121;
+}
+
+
+/* Footer */
+#footer{
+   margin-top: 1.5em;
+    background-image: linear-gradient(to right, rgb(0,0,0),rgb(100,10,80));
+    color: #fff;
+
+}
+.footer-img{
+width: 100%;
+}
+
+.footer-1{
+   padding: 20px;
+}
+
+.footer-1 img{
+width: 120px;
+margin-bottom: 20px;
+}
+
+.footer-1 .fas{
+    margin-right: 5px;
+
+}
+
+.copyright{
+    margin-bottom: 0;
+   padding-bottom: 15px;
+   text-align: center;
+}
